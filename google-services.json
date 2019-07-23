@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "684984952775",
+    "firebase_url": "https://seninfikrin-21395.firebaseio.com",
+    "project_id": "seninfikrin-21395",
+    "storage_bucket": "seninfikrin-21395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684984952775:android:47fc3b8c83c01f83",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.seninfikrin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684984952775-br3vcqrcmh66fnoelkcmvtbtjp1gon9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.seninfikrin",
+            "certificate_hash": "e8fd98a1a0ca25ee02e746435cd1eb31ec3914b9"
+          }
+        },
+        {
+          "client_id": "684984952775-v70nbnungbrqsrb1hcs9hsiv3pb1diuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlzLdeD-yMJPPmBL6hqzDP6xWrbrGoQcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684984952775-v70nbnungbrqsrb1hcs9hsiv3pb1diuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

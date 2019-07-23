@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2d2f3c</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="colorPrimaryDark">#030516</color>
+    <color name="arkaplan1">#ffe4e1</color>
+    <color name="translucent_black">#80000000</color>
+    <color name="arkaplan">#f0fff0</color>
+    <color name="colorAccent">#565866</color>
+</resources>
+
